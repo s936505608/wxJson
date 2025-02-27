@@ -1,6 +1,273 @@
 {
     "data":[
       {
+        "title": "大模型基础 – 开源大语言模型技术前沿书籍",
+        "type": ["GitHub项目", "趣站"],
+        "time": "2025-02-25",
+        "desc": {
+          "title": "大模型基础介绍",
+          "detail": "《大模型基础》系统解析大语言模型核心技术，涵盖传统语言模型、Transformer架构演化、Prompt工程、参数高效微调等六大前沿领域，每月持续更新追踪技术动态。全 书以动物案例增强可读性，配套章节论文清单及完整PDF资源下载，深度剖析模型编辑、检索增强生成等实战技术，提供大语言模型评测方法及推理加速预研方向。教材整合统计方法、RNN架构、Decoder-only模型等核心知识点，附加低秩适配、T-Patcher等实操方案，助力开发者构建 智能体应用体系。开放社区互动优化机制，持续补充大模型智能体等新内容，打造专业级人工智能技术学习生态。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80-%E5%BC%80%E6%BA%90%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E4%B9%A6%E7%B1%8D.jpg"
+        ],
+        "link": [
+          "GitHub：https://github.com/ZJU-LLMs/Foundations-of-LLMs"
+        ],
+        "tag": [
+          ""
+        ]
+      },
+      {
+        "title": "小狐搜搜 – 全网影视资源免费搜索平台",
+        "type": ["影视网站", "趣站"],
+        "time": "2025-02-25",
+        "desc": {
+          "title": "小狐搜搜介绍",
+          "detail": "小狐搜搜作为专业的资源 搜索引擎平台，整合全网影视综艺与 网盘资源，提供电视剧、电影、短剧、动漫等多元化内容搜索服务。平台支持夸克网盘资源精准检索，实现网盘资源共享与高效下载，满足用户对热门综艺、经典动画、最新短剧的观看需求。通过智能搜索技术帮助用户快速获取海量影视资源，打造便捷的数字娱乐资源获取体验，持续优化资源分享生态，让优质内容触手可及。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E5%B0%8F%E7%8B%90%E6%90%9C%E6%90%9C-%E5%85%A8%E7%BD%91%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E5%85%8D%E8%B4%B9%E6%90%9C%E7%B4%A2%E5%B9%B3%E5%8F%B0.jpg"
+        ],
+        "link": [
+          "网站地址：http://uuyue.top/"
+        ],
+        "tag": [
+          ""
+        ]
+      },
+      {
+        "title": "DeepSeek 零基础入门手册 秋叶出品",
+        "type": ["资源"],
+        "time": "2025-02-24",
+        "desc": {
+          "title": "资源信息",
+          "detail": "DeepSeek 零基础入门手册 秋叶出品，【训练营】99页！秋叶极简DeepSeek 7大热点+全套提示词零基础入门，涵盖其产品特性、应用场景、技术原理、争议探讨以及企业合作等内容，为初学者全面了解DeepSeek提供指引，夸克网盘资源。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/DeepSeek-%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C-%E7%A7%8B%E5%8F%B6%E5%87%BA%E5%93%81.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/DeepSeek-%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C-%E7%A7%8B%E5%8F%B6%E5%87%BA%E5%93%8101.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/DeepSeek-%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C-%E7%A7%8B%E5%8F%B6%E5%87%BA%E5%93%8102.jpg"
+        ],
+        "link": [
+          "夸克网盘：https://pan.quark.cn/s/5ce295e1a54f#/list/share"
+        ],
+        "tag": [
+          ""
+        ]
+      },
+      {
+        "title": "私域2.0时代，私域总监实训营课程，培养能拿结果的私域操盘手",
+        "type": ["短视频", "资源"],
+        "time": "2025-02-24",
+        "desc": {
+          "title": "课程信息",
+          "detail": "私域2.0时代，私域总监实训营课程，培养能拿结果的私域操盘手，夸克 网盘课程。私域2.0总监实训营聚焦企业私域运营全链路能力提升，系统教授快速成交13步法、人工智能外呼触达、浪潮式发售回款及 视频号带货等核心策略。课程深度解析用户旅程设计与LTV价值挖掘、营销HOOK链复购激活、私域IP信任转化及社群批量运营等实战秘籍，结合自动化降本增效方案与商业视角的私域增长点挖掘，适配企业从引流获客到转化复购的全周期需求。通过案例拆解（如零一裂变品牌打法）与职场晋升指导，培养能制定用户主动接受型营销策略、实现业绩增长的私域操盘手，解决企业私域流量留存难、转化率低、运营成本高等痛点。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E7%A7%81%E5%9F%9F2.0%E6%97%B6%E4%BB%A3%EF%BC%8C%E7%A7%81%E5%9F%9F%E6%80%BB%E7%9B%91%E5%AE%9E%E8%AE%AD%E8%90%A5%E8%AF%BE%E7%A8%8B%EF%BC%8C%E5%9F%B9%E5%85%BB%E8%83%BD%E6%8B%BF%E7%BB%93%E6%9E%9C%E7%9A%84%E7%A7%81%E5%9F%9F%E6%93%8D%E7%9B%98%E6%89%8B.jpg"
+        ],
+        "link": [
+          "夸克网盘：https://pan.quark.cn/s/8ac3d385082d#/list/share"
+        ],
+        "tag": [
+          ""
+        ]
+      },
+      {
+        "title": "企业短视频精准引流矩阵获客，解决企业获客难题",
+        "type": ["短视频", "资源"],
+        "time": "2025-02-24",
+        "desc": {
+          "title": "资源信息",
+          "detail": "课程信息 企业短 视频精准引流矩阵获客，解决企业获客难题，夸克 网盘课程。本课程系统化解决企业短视频获客难题，提供从零粉丝账号快速涨粉变现、精准客户触达策略到流量团队复制的全链路方案。内容涵盖账号定位优化、垂类内容公式化生产、目标人群画像分析及蓝海市场挖掘技巧，结合阿米巴管理模式实现矩阵团队快速搭建与考核。课程深度解析MVP盈利模型跑通逻辑、编导招聘标准及流量复盘机制，帮助企业通过短视频内容组合策略（如痛点需求采集+场景化内容输出）实现低成本精准引流，适配电商、教育、B端服务等多行业，解决流量波动与转化效率难题，构建可持续增长的短视频获客体系。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E4%BC%81%E4%B8%9A%E7%9F%AD%E8%A7%86%E9%A2%91%E7%B2%BE%E5%87%86%E5%BC%95%E6%B5%81%E7%9F%A9%E9%98%B5%E8%8E%B7%E5%AE%A2%EF%BC%8C%E8%A7%A3%E5%86%B3%E4%BC%81%E4%B8%9A%E8%8E%B7%E5%AE%A2%E9%9A%BE%E9%A2%98.jpg"
+        ],
+        "link": [
+          "夸克网盘：https://pan.quark.cn/s/42910dc5da30#/list/share"
+        ],
+        "tag": [
+          ""
+        ]
+      },
+      {
+        "title": "2025哪吒版本的课程表+开学第一课PPT",
+        "type": ["素材模板", "资源"],
+        "time": "2025-02-24",
+        "desc": {
+          "title": "资源信息",
+          "detail": "2025哪吒版本的课程表+开学第一课PPT，夸克 网盘资源下载。资源包提供2025年春季开学第一课全套 教学资料，包含“成为自己的超级英雄”主题PPT课件（附字体安装包）、逐字稿及教案，适配班主任、教师开展新学期班会活动。课件围绕自我认知提升、目标管理及团队协作设计互动环节，教案涵盖寒假总结、新学期规划与心理调适指导。同步提供3款课程表模板（PDF/PPTX格式），支持个性化定制学科安排、周计划表及学科打卡功能，适配小学至中学阶段需求。资源包整合可打印课程表、演讲文稿框架及教学素材，助力教师快速完成开学筹备工作，强化班级凝聚力与学生自我驱动力",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/2025%E5%93%AA%E5%90%92%E7%89%88%E6%9C%AC%E7%9A%84%E8%AF%BE%E7%A8%8B%E8%A1%A8%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BEPPT.jpg"
+        ],
+        "link": [
+          "夸克网盘：https://pan.quark.cn/s/f8fc1d9036fd#/list/share"
+        ],
+        "tag": [
+          ""
+        ]
+      },
+      {
+        "title": "财务EXCEL从入门到精通系统学习班-财会成长学苑",
+        "type": ["资源", "社交职场"],
+        "time": "2025-02-24",
+        "desc": {
+          "title": "课程信息",
+          "detail": "财务 EXCEL从入门到精通系统学习班-财会成长学苑，夸克 网盘课程。本课程系统化教学财务EXCEL核心技能，涵盖数据高效录入、Vlookup函数多场景应用（工资表拆分/应收账款对账）、数据透视表统计分析与财务报表制作全流程。内容包含财务数据保护机制设置（三重防护/数据验证）、条件格式美化报表、固定资产折旧计算、个税累进税率公式及银行电汇单模板设计等实战模块。通过跨表引用实现会计总账与明细账自动核对，结合数据分列、唯一值提取及冻结窗口功能提升效率，适配薪资管理、税务申报与财务分析场景。课程深度解析EXCEL定位技巧、打印规范及图表可视化方法，帮助财务从业者掌握从基础操作到高级函数（Sumifs/Countifs）的完整技能链，实现数据自动化处理与业财一体化管理。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E8%B4%A2%E5%8A%A1EXCEL%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%8F%AD-%E8%B4%A2%E4%BC%9A%E6%88%90%E9%95%BF%E5%AD%A6%E8%8B%91.jpg"
+        ],
+        "link": [
+          "夸克网盘：https://pan.quark.cn/s/371990300401#/list/share"
+        ],
+        "tag": [
+          "Excel"
+        ]
+      },
+      {
+        "title": "DeepSeek券商报告合集",
+        "type": ["资源"],
+        "time": "2025-02-24",
+        "desc": {
+          "title": "资源信息",
+          "detail": "DeepSeek券商报告合集，夸克网盘资源下载。本合集整合券商深度报告，聚焦DeepSeek在AI大模型领域的技术突破与市场影响，涵盖模型成本优化、开源生态建设及国产化进程加速等核心议题。报告分析DeepSeek-R1/V3系列对算力需求、推理侧应用爆发的推动作用，解读其在传媒、电子、计算机等行业的变革性应用（如游戏版号获批、Kimi+场景扩展）。内容涉及AI平权实现路径、模型训练成本下降对产业格局的重塑，以及投资策略调整建议（如算力产业链、终端AI设备及科技股价值重估）。多份报告指出DeepSeek开源第二代MoE模型的技术颠覆性，结合OpenAI等国际竞品动态，预判AI应用“安卓时刻”到来，为投资者提供国产大模型竞争升级、全球算力需求增长及关税政策影响下的多维分析框架。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/DeepSeek%E5%88%B8%E5%95%86%E6%8A%A5%E5%91%8A%E5%90%88%E9%9B%86.jpg"
+        ],
+        "link": [
+          "夸克网盘：https://pan.quark.cn/s/7ea6a5814b2c#/list/share"
+        ],
+        "tag": [
+          "AI",
+          "DeepSeek"
+        ]
+      },
+      {
+        "title": "小报童专栏导航站 – 精选高质量AI副业/小红书变现/生财有术等付费专栏",
+        "type": ["趣站"],
+        "time": "2025-02-24",
+        "desc": {
+          "title": "小报童专栏导航站介绍",
+          "detail": "小报童专栏导航站专注聚合高价值付费内容，精选 AI副业变现、生财有术、小红书运营、公众号爆文、社群裂变等垂直领域专栏，解决用户在小报童平台因无算法推荐导致的优质内容发现难题。平台每日更新专栏列表，覆盖专栏模式与小册模式内容，支持用户按分类筛选或主动提交未被收录的优质专栏，提供订阅制与买断制付费指引。通过人工筛选与用户推荐机制，帮助读者高效获取实战经验、行业洞察及变现方法论，弥补搜索引擎无法直接检索小报童内容的短板，为内容创作者与知识付费用户搭建精准对接桥梁。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E5%B0%8F%E6%8A%A5%E7%AB%A5%E4%B8%93%E6%A0%8F%E5%AF%BC%E8%88%AA%E7%AB%99-%E7%B2%BE%E9%80%89%E9%AB%98%E8%B4%A8%E9%87%8FAI%E5%89%AF%E4%B8%9A-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%8F%98%E7%8E%B0-%E7%94%9F%E8%B4%A2%E6%9C%89%E6%9C%AF%E7%AD%89%E4%BB%98%E8%B4%B9%E4%B8%93%E6%A0%8F.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E5%B0%8F%E6%8A%A5%E7%AB%A5%E4%B8%93%E6%A0%8F%E5%AF%BC%E8%88%AA%E7%AB%99-%E7%B2%BE%E9%80%89%E9%AB%98%E8%B4%A8%E9%87%8FAI%E5%89%AF%E4%B8%9A-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%8F%98%E7%8E%B0-%E7%94%9F%E8%B4%A2%E6%9C%89%E6%9C%AF%E7%AD%89%E4%BB%98%E8%B4%B9%E4%B8%93%E6%A0%8F-hot.jpg"
+        ],
+        "link": [
+          "网站地址：https://xbt100.top/"
+        ],
+        "tag": [
+        ]
+      },
+      {
+        "title": "WK Proxy：开源的桌面端 HTTP 代理与抓包工具",
+        "type": ["Mac", "Windows"],
+        "time": "2025-02-24",
+        "desc": {
+          "title": "WK  Proxy介绍",
+          "detail": "WK Proxy是一款基于GraalVM与Java原生编译的 开源桌面端代理工具，支持Windows和macOS双平台，为开发者及测试人员提供HTTP/HTTPS全协议抓包与调试功能。工具支持自定义根证书一键安装，实现安全可靠的HTTPS流量解析，内置WebSocket代理适配实时通信场景调试需求。通过请求限流、重发模拟网络波动环境，验证接口可靠性，满足API测试、逆向工程及网络安全分析场景。开源特性保障代码透明性，配合跨平台性能优化，助力高效完成网络请求拦截、数据包分析及通信协议调试任务，降低开发调试成本。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/WK-Proxy%EF%BC%9A%E5%BC%80%E6%BA%90%E7%9A%84%E6%A1%8C%E9%9D%A2%E7%AB%AF-HTTP-%E4%BB%A3%E7%90%86%E4%B8%8E%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B701.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/WK-Proxy%EF%BC%9A%E5%BC%80%E6%BA%90%E7%9A%84%E6%A1%8C%E9%9D%A2%E7%AB%AF-HTTP-%E4%BB%A3%E7%90%86%E4%B8%8E%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B702.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/WK-Proxy%EF%BC%9A%E5%BC%80%E6%BA%90%E7%9A%84%E6%A1%8C%E9%9D%A2%E7%AB%AF-HTTP-%E4%BB%A3%E7%90%86%E4%B8%8E%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B703.jpg"
+        ],
+        "link": [
+          "下载地址：https://pan.quark.cn/s/a37431c3c16e#/list/share",
+          "GitHub：https://github.com/catas-w/WK-Proxy"
+        ],
+        "tag": [
+        ]
+      },
+      {
+        "title": "Filmbudd：电影评分查询与观影标记神器+在线网盘资源",
+        "type": ["Android", "Apple"],
+        "time": "2025-02-24",
+        "desc": {
+          "title": "Filmbudd是什么",
+          "detail": "Filmbudd 是一款基于 云端的电影评分查询及观影标记 应用，通过浏览器插件实现一键查评分、找片源和在线看网盘资源，支持 Safari、Chrome、Edge 等多种浏览器以及 iOS 和 Android 移动设备，致力于为电影爱好者提供简单易用且注重隐私保护的观影体验，用户无需绑定手机号或进行实名验证，只需通过电子邮件注册即可免费使用，并实现跨设备数据同步与隐私设置，助力快速挑选电影并记录观影标记，拒绝低质评论，确保用户观影数据安全与私密。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/Filmbudd%EF%BC%9A%E7%94%B5%E5%BD%B1%E8%AF%84%E5%88%86%E6%9F%A5%E8%AF%A2%E4%B8%8E%E8%A7%82%E5%BD%B1%E6%A0%87%E8%AE%B0%E7%A5%9E%E5%99%A8%E5%9C%A8%E7%BA%BF%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%9002.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/Filmbudd%EF%BC%9A%E7%94%B5%E5%BD%B1%E8%AF%84%E5%88%86%E6%9F%A5%E8%AF%A2%E4%B8%8E%E8%A7%82%E5%BD%B1%E6%A0%87%E8%AE%B0%E7%A5%9E%E5%99%A8%E5%9C%A8%E7%BA%BF%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%9001.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/Filmbudd%EF%BC%9A%E7%94%B5%E5%BD%B1%E8%AF%84%E5%88%86%E6%9F%A5%E8%AF%A2%E4%B8%8E%E8%A7%82%E5%BD%B1%E6%A0%87%E8%AE%B0%E7%A5%9E%E5%99%A8%E5%9C%A8%E7%BA%BF%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%9001.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/Filmbudd%EF%BC%9A%E7%94%B5%E5%BD%B1%E8%AF%84%E5%88%86%E6%9F%A5%E8%AF%A2%E4%B8%8E%E8%A7%82%E5%BD%B1%E6%A0%87%E8%AE%B0%E7%A5%9E%E5%99%A8%E5%9C%A8%E7%BA%BF%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%9003.jpg"
+        ],
+        "link": [
+          "安卓下载地址：  https://pan.quark.cn/s/ea9418824afa#/list/share",
+          "Chrome 浏览器插件: https://chromewebstore.google.com/detail/filmbudd-pro/ehmoihnjgkdimihkhokkmfjdgomohjgm",
+          "官网：https://filmbudd.com/zh-CN/"
+        ],
+        "tag": [
+        ]
+      },
+      {
+        "title": "北京大学 DeepSeek系列-提示词工程和落地场景&DeepSeek与AIGC应用",
+        "type": ["资源"],
+        "time": "2025-02-24",
+        "desc": {
+          "title": "资源信息",
+          "detail": "北京大学 DeepSeek系列，包括北京大学-DeepSeek系列-提示词工程和落地场景、北京大学DeepSeek系列-DeepSeek与 AIGC 应用，夸克网盘和PikPak网盘。",
+          "tips": ""
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6-DeepSeek%E7%B3%BB%E5%88%97-%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E5%92%8C%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AFDeepSeek%E4%B8%8EAIGC%E5%BA%94%E7%94%A8.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6-DeepSeek%E7%B3%BB%E5%88%97-%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E5%92%8C%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AFDeepSeek%E4%B8%8EAIGC%E5%BA%94%E7%94%A8-01.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6-DeepSeek%E7%B3%BB%E5%88%97-%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E5%92%8C%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AFDeepSeek%E4%B8%8EAIGC%E5%BA%94%E7%94%A8-02.jpg"
+        ],
+        "link": [
+          "夸克网盘:  https://pan.quark.cn/s/c567afb29758#/list/share",
+          "pikpak网盘:  https://mypikpak.com/s/VOJrA-vvKhNNoBTUPdLzewMfo1/VOJr9yorKhNNoBTUPdLzew37o1"
+        ],
+        "tag": [
+          "AI",
+          "DeepSeek"
+        ]
+      },
+      {
+        "title": "最新版TikTok 抖音国际版解锁版下载 v38.8.3 去广告 免拔卡",
+        "type": ["软件", "android"],
+        "link": [
+          "夸克网盘:  https://pan.quark.cn/s/9abb0ff027c3#/list/share",
+          "百度网盘:  https://pan.baidu.com/share/init?surl=5y3_pod5-Kq8a-uxYqvHsA&pwd=ahhh"
+        ],
+        "desc": {
+          "title": "抖音国际版介绍",
+          "detail": "抖音国际版 App是全球最受欢迎的短视频应用，抖音国际版TikTok（海外版）横扫全球下载量常居榜首。这是最新抖音国际版解锁版，无视封锁和下载限制，国内免拔卡，去除了广告，下载视频无水印（TikTok去水印），可以自定义地区的国际版。",
+          "tips": "<br />软件版本特点<br />tiktok解锁版,抖音国际版<br />by Dmitry Nechiporenko<br />去所有广告、去保存视频水印<br />内置自定义全球区域功能向导<br />可以自定义视频下载保存位置<br />解除国家/地区限制，无视区域封锁<br />解除所有下载限制，可以保存任何视频<br />解除合拍和拼接限制，移除了调试信息<br />添加了播放进度条，支持手机号码登陆<br />为下载视频文件的名称添加了作者标签<br />修正谷歌授权、Facebook授权、VK授权<br />GIF和视频保存路径重定向到Movies/TikTok<br />禁用不必要活动控件、禁用所有类型分析、禁用统计分析、对齐优化、极限压缩<br />启用观看历史、优化电池消耗、禁用自动启动，隐藏的根权限，删除许多其他限制<br />强制启用高画质视频、强制启用高品质音频、强制启用超清分辨率、并启用抗锯齿<br />备注：TikTok插件(TikTokPlugin)可以自定义设置，用于配合此修改版选择全球区域！<br />软件使用说明<br />常见问题<br />1.国际版安装后默认是英语界面，如何切换简体中文界面？<br />Profile (我的)-设置-App Language ( 应用语言)-中文简体<br />2.碰到无法登陆，获取验证码提示使用太频繁该怎么解决？<br />安装 Adguard，打开设置->DNS过滤-DNS请求拦截-关闭<br />3.ARM64-v8a和ARM-v7a下载哪个？<br />高版本系统手机建议下载 arm64-v8a （第8代、64位ARM处理器）版本，能够发挥手机最佳性能；低版本系统手机选择ARM-v7a，自己试试。<br />亲测，国内无需拔卡，可以用谷歌邮箱或国内手机号注册登陆正常使用！<br />由于 TikTok服务器在境外，故需自备梯子，否则打开很慢会一直加载中"
+        },
+        "image": [
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E6%9C%80%E6%96%B0%E7%89%88TikTok-%E6%8A%96%E9%9F%B3%E5%9B%BD%E9%99%85%E7%89%88%E7%A0%B4%E8%A7%A3-new-01.jpg",
+          "https://www.ahhhhfs.com/wp-content/uploads/2025/02/%E6%9C%80%E6%96%B0%E7%89%88TikTok-%E6%8A%96%E9%9F%B3%E5%9B%BD%E9%99%85%E7%89%88%E7%A0%B4%E8%A7%A3-new-00.jpg"
+        ],
+        "time": "2025-02-24",
+        "tag": [
+          "TikTok",
+          "TikTok去水印",
+          "去水印",
+          "抖音",
+          "抖音国际版",
+          "抖音国际版破解版"
+        ]
+      },
+      {
         "title": "免费在线漫画网站：MYCOMIC",
         "link": [
           "https://mycomic.com/"
